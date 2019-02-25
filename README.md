@@ -1,16 +1,31 @@
 # Idea Byte Discussion
 
-## Project Setup
+<!-- vscode-markdown-toc -->
+
+- 1. [Project Setup](#ProjectSetup)
+- 2. [Technology & Design Stack](#TechnologyDesignStack)
+- 3. [Features](#Features)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+## 1. <a name='ProjectSetup'></a>Project Setup
 
 - Determine a team/app name
   - Example: Idea Byte
 - Create a Gmail account
   - Example: impactbyte.ideabyte@gmail.com
-- Create organization on GitHub
-  - Example: https://github.com/ideabyte
+- Create GitHub account
+  - Example: https://github.com/ideabyte-admin (free personal account)
+- Create GitHub organization
+  - Example: https://github.com/ideabyte (organization)
 - Update organization profile in settings
-  - https://github.com/organizations/impactbyte-ideabyte/settings/profile
+  - https://github.com/organizations/ideabyte/settings/profile
 - Add team members on GitHub
+  - https://github.com/orgs/ideabyte/people
 - Setup repositories
   - `discussion`: https://github.com/ideabyte-discussion
   - `design`: https://github.com/ideabyte-design
@@ -19,8 +34,15 @@
 - Setup project with linked repositories
   - Example: https://github.com/orgs/impactbyte-ideabyte/projects/1
 - List features we NEED, not just WANT
+- Protect `master` branches
+  - https://github.com/ideabyte/ideabyte-frontend/settings/branches
+- Setup project with linked repositories
+  - Example: https://github.com/orgs/ideabyte/projects/1
+- List features that we NEED, not just WANT
 
-## Features
+## 2. <a name='TechnologyDesignStack'></a>Technology & Design Stack
+
+## 3. <a name='Features'></a>Features
 
 - Display introduction in homepage
 - Display all ideas in homepage
