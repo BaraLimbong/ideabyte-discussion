@@ -1,7 +1,13 @@
 console.log('ajin')
 
-let result = ''
 for (let i = 0; i < 5; i++) {
-  result += '*'
+  let result = ''
+  for (let j = 0; j < 5; j++) {
+    if (i % 2 === 0) {
+      result += '*'
+    } else {
+      result += i
+    }
+  }
   console.log(result)
 }
