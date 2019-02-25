@@ -1,5 +1,6 @@
-#features
--HOME
--ABOUT
--APP
--REGISTER
+# Features
+
+- HOME
+- ABOUT
+- APP
+- REGISTER
