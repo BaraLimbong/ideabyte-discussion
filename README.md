@@ -83,6 +83,7 @@ Let's build a full stack project in 5 days
   - CSS
   - JavaScript (ESNext)
   - React + React Dev Tools
+  - React Router
   - Styled Components
   - Redux + Redux Dev Tools
 - Backend
